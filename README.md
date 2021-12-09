@@ -1,2 +1,2 @@
 # hello-world
-might a brief introduction of the user :)
+might be a brief introduction of the user :)
